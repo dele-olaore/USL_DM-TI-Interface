@@ -1,0 +1,112 @@
+Hummingbird DM API9212005194854.log
+ 
+--------------------
+Hummingbird DM API 5.1.0.5
+Product: {01368B59-DD1E-432F-8764-D22FC27E6864}
+  Internal Code Rev:   4
+  Internal Code Date:  6/22/02
+  Installation started:
+	  9-21-2005
+	  19:48:54
+************************
+Environment Inventory Data
+
+Machine configuration:
+    CPU - Pentium
+    INTEL CHIP - YES
+    MEMORY (kB) - 642544
+    MEMORY AVAILABLE - 1048576
+
+OS configuration:
+    LANGUAGE - Arabic
+    WINDOWS VERSION (by number)- 5.0
+    Windows NT family detected
+    WINDOWS - Windows 2000
+    WINDOWS NT SERVICE PACK - 4
+
+Path and Directory locations:
+    PROGRAMFILES - C:\Program Files\
+    COMMONFILES - C:\Program Files\Common Files\
+    DISK1TARGET - C:\Program Files\InstallShield Installation Information\{01368B59-DD1E-432F-8764-D22FC27E6864}
+    SRCDIR - D:\DM API\
+    SUPPORTDIR - C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\{9E4CF13F-27E1-46C2-A912-FF3F38E337E4}\{01368B59-DD1E-432F-8764-D22FC27E6864}\
+    APPDATA - C:\Documents and Settings\Administrator\Application Data\
+    WINDIR - C:\WINNT\
+    WINSYSDIR - C:\WINNT\system32\
+    TEMP - C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\
+
+InstallShield configuration:
+    MODE - FIRST RUN
+    SILENT INSTALL - NO
+    NOT LAUNCHED FROM ADD/REMOVE
+    WEB PAGE VERSION - NO
+    DEBUG LOGGING - NO
+    COMMAND LINE ARGUMENTS - embedded targetdir="c:\program files\hummingbird\dm api" servername=mgshe folb=on folder="hummingbird\dm server"
+    InstallShield VERSION - 7.1.100.1242
+************************
+Checking command line for REMOVEALL...
+    ...not found.
+Checking command line for NOVALIDATE...
+    ...not found.
+Validation is enabled.
+Checking CMDLINE:  embedded targetdir="c:\program files\hummingbird\dm api" servername=mgshe folb=on folder="hummingbird\dm server"
+    token:  embedded
+Running embedded.
+    token:  targetdir="c:\program
+    token:  files\hummingbird\dm
+    token:  api"
+  TARGETDIR = c:\program files\hummingbird\dm api
+    token:  servername=mgshe
+  Fusion server specified: mgshe
+    token:  folb=on
+    token:  folder="hummingbird\dm
+    token:  server"
+  Server-specified folder: hummingbird\dm server
+  Installation Type:  Embedded installation
+Starting search for existing registry values...
+Failed to find any older clients.
+Checking system requirements for installation...
+Checking OS...
+    OS is not WinXP, Win2000, WinNT4, WinNT351, Win95 or Win98
+Checking OS...
+    found Windows 2000.
+    found Service Pack/SubVersion: 4
+    Service Pack meets requirements
+Checking OS...
+    OS is not WinXP, Win2000, WinNT4, WinNT351, Win95 or Win98
+Checking OS...
+    OS is not WinXP, Win2000, WinNT4, WinNT351, Win95 or Win98
+Checking OS...
+    OS is not WinXP, Win2000, WinNT4, WinNT351, Win95 or Win98
+    Nodename:  MGSHE
+Checking OS...
+    OS is not WinXP, Win2000, WinNT4, WinNT351, Win95 or Win98
+Checking OS...
+    OS is not WinXP, Win2000, WinNT4, WinNT351, Win95 or Win98
+--------
+SELECTED COMPONENTS:
+    Client API\Redistributables
+    Client API\DCOM
+--------
+Installed ext res files from dir: C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\{9E4CF13F-27E1-46C2-A912-FF3F38E337E4}\{01368B59-DD1E-432F-8764-D22FC27E6864}\Client Files xRez -- locked
+Installing localized registry settings (if exist) from SRCDIR...
+Checking for .REG file: "D:\DM API\localized.reg"
+File not found.
+Installing localized registry settings (if exist) from SUPPORTDIR...
+Checking for .REG file: C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\{9E4CF13F-27E1-46C2-A912-FF3F38E337E4}\{01368B59-DD1E-432F-8764-D22FC27E6864}\localized.reg
+File not found.
+handregged: c:\program files\hummingbird\dm api\PCDClientInstallWzdPages.dll
+exit status:  emb: 1  wb: 0  upg: 0
+  CSIWizard exit status: 0
+Registering DCOM client... (2)
+BI:  -1
+Calling for normal reboot.
+Created Installs REG Value: SOFTWARE\Hummingbird\installs\Installation Name=DM API
+Created Installs REG Value: SOFTWARE\Hummingbird\installs\Installation Status=Reboot
+ 
+Install completed successfully
+9-21-2005
+19:49:11
+--------------------
+ 
+
